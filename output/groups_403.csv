@@ -1,37 +1,37 @@
-Варіант,Прізвище,Ім'я,По-батькові,телефон,НУЛП емейл,емейл,git name,403,коментар,Status
-,,,,,,,,CSAD,,EMPTY
-1,,,,,,,,403CSAD1,,EMPTY
-2,,,,,,,,403CSAD2,,EMPTY
-3,,,,,,,,403CSAD3,,EMPTY
-4,,,,,,,,403CSAD4,,EMPTY
-5,,,,,,,,403CSAD5,,EMPTY
-6,,,,,,,,403CSAD6,,EMPTY
-7,,,,,,,,403CSAD7,,EMPTY
-8,,,,,,,,403CSAD8,,EMPTY
-9,,,,,,,,403CSAD9,,EMPTY
-10,Кілик,Ірина,Русланівна,983265564,iryna.kilyk.ki.2023@lpnu.ua,irkilyk@gmail.com,IrynaKilyk,403CSAD10,,ERROR1 Repo Not Found
-11,Кільчицька,Адріана,Іванівна,380968513083,adriana.kilchytska.ki.2023@lpnu.ua,adrianka.1408@gmail.com,adrianakilchytskaki2023-netizen,403CSAD11,,ERROR2 No README.md
-12,,,,,,,,403CSAD12,,EMPTY
-13,,,,,,,,403CSAD13,,EMPTY
-14,,,,,,,,403CSAD14,,EMPTY
-15,,,,,,,,403CSAD15,,EMPTY
-16,,,,,,,,403CSAD16,,EMPTY
-17,,,,,,,,403CSAD17,,EMPTY
-18,,,,,,,,403CSAD18,,EMPTY
-19,,,,,,,,403CSAD19,,EMPTY
-20,Холявко,Тетяна,Юріївна,996769177,tetiana.kholiavko.ki.2023@lpnu.ua,t.kholiavko@gmail.com,tetianakholiavkoki2023-png,403CSAD20,,ERROR3 Name mismatch
-21,,,,,,,,403CSAD21,,EMPTY
-22,,,,,,,,403CSAD22,,EMPTY
-23,,,,,,,,403CSAD23,,EMPTY
-24,,,,,,,,403CSAD24,,EMPTY
-25,,,,,,,,403CSAD25,,EMPTY
-26,,,,,,,,403CSAD26,,EMPTY
-27,,,,,,,,403CSAD27,,EMPTY
-28,,,,,,,,403CSAD28,,EMPTY
-29,,,,,,,,403CSAD29,,EMPTY
-30,,,,,,,,403CSAD30,,EMPTY
-31,,,,,,,,403CSAD31,,EMPTY
-32,,,,,,,,403CSAD32,,EMPTY
-33,,,,,,,,403CSAD33,,EMPTY
-34,,,,,,,,403CSAD34,,EMPTY
-35,,,,,,,,403CSAD35,,EMPTY
+Варіант,Прізвище,Ім'я,По-батькові,телефон,НУЛП емейл,емейл,git name,403,коментар,Status,Status
+,,,,,,,,CSAD,,EMPTY,EMPTY
+1,,,,,,,,403CSAD1,,EMPTY,EMPTY
+2,,,,,,,,403CSAD2,,EMPTY,EMPTY
+3,,,,,,,,403CSAD3,,EMPTY,EMPTY
+4,,,,,,,,403CSAD4,,EMPTY,EMPTY
+5,,,,,,,,403CSAD5,,EMPTY,EMPTY
+6,,,,,,,,403CSAD6,,EMPTY,EMPTY
+7,,,,,,,,403CSAD7,,EMPTY,EMPTY
+8,,,,,,,,403CSAD8,,EMPTY,EMPTY
+9,,,,,,,,403CSAD9,,EMPTY,EMPTY
+10,Кілик,Ірина,Русланівна,983265564,iryna.kilyk.ki.2023@lpnu.ua,irkilyk@gmail.com,IrynaKilyk,403CSAD10,,ERROR1 Repo Not Found,ERROR1 Repo Not Found
+11,Кільчицька,Адріана,Іванівна,380968513083,adriana.kilchytska.ki.2023@lpnu.ua,adrianka.1408@gmail.com,adrianakilchytskaki2023-netizen,403CSAD11,,ERROR2 No README.md,ERROR2 No README.md
+12,,,,,,,,403CSAD12,,EMPTY,EMPTY
+13,,,,,,,,403CSAD13,,EMPTY,EMPTY
+14,,,,,,,,403CSAD14,,EMPTY,EMPTY
+15,,,,,,,,403CSAD15,,EMPTY,EMPTY
+16,,,,,,,,403CSAD16,,EMPTY,EMPTY
+17,,,,,,,,403CSAD17,,EMPTY,EMPTY
+18,,,,,,,,403CSAD18,,EMPTY,EMPTY
+19,,,,,,,,403CSAD19,,EMPTY,EMPTY
+20,Холявко,Тетяна,Юріївна,996769177,tetiana.kholiavko.ki.2023@lpnu.ua,t.kholiavko@gmail.com,tetianakholiavkoki2023-png,403CSAD20,,ERROR3 Name mismatch,ERROR3 Name mismatch
+21,,,,,,,,403CSAD21,,EMPTY,EMPTY
+22,,,,,,,,403CSAD22,,EMPTY,EMPTY
+23,,,,,,,,403CSAD23,,EMPTY,EMPTY
+24,,,,,,,,403CSAD24,,EMPTY,EMPTY
+25,,,,,,,,403CSAD25,,EMPTY,EMPTY
+26,,,,,,,,403CSAD26,,EMPTY,EMPTY
+27,,,,,,,,403CSAD27,,EMPTY,EMPTY
+28,,,,,,,,403CSAD28,,EMPTY,EMPTY
+29,,,,,,,,403CSAD29,,EMPTY,EMPTY
+30,,,,,,,,403CSAD30,,EMPTY,EMPTY
+31,,,,,,,,403CSAD31,,EMPTY,EMPTY
+32,,,,,,,,403CSAD32,,EMPTY,EMPTY
+33,,,,,,,,403CSAD33,,EMPTY,EMPTY
+34,,,,,,,,403CSAD34,,EMPTY,EMPTY
+35,,,,,,,,403CSAD35,,EMPTY,EMPTY
